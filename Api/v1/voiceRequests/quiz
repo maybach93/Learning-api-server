@@ -1,0 +1,23 @@
+
+{
+	"description" : "Cause to feel extreme fear. To frighten someone very much"
+	,
+	"options" : [
+		{
+			"word" : "shock",
+			"isCorrect" : 0
+		},
+		{
+			"word" : "afraid",
+			"isCorrect" : 0
+		},
+		{
+			"word" : "apparently",
+			"isCorrect" : 0
+		},
+		{
+			"word" : "terrify",
+			"isCorrect" : 1
+		}
+	]
+}
