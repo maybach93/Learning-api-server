@@ -3,7 +3,7 @@
 	"lexical" : 80,
 	"grammar" : 54,
 	"pronunciation" : 95,
-	"topics_to_recap" : [
+	"topicsToRecap" : [
 		"present perfect vs past simple",
 		"articles: The vs zero",
 		"lack of usage less common vocabulary"
