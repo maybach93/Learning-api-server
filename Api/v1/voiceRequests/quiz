@@ -5,19 +5,19 @@
 	"options" : [
 		{
 			"word" : "shock",
-			"isCorrect" : 0
+			"isCorrect" : false
 		},
 		{
 			"word" : "afraid",
-			"isCorrect" : 0
+			"isCorrect" : false
 		},
 		{
 			"word" : "apparently",
-			"isCorrect" : 0
+			"isCorrect" : false
 		},
 		{
 			"word" : "terrify",
-			"isCorrect" : 1
+			"isCorrect" : true
 		}
 	]
 }
