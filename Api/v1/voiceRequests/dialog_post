@@ -1,8 +1,8 @@
 {
 	"total" : 75,
-	"lexical" : 80,
-	"grammar" : 54,
-	"pronunciation" : 95,
+	"lexical" : 0.8,
+	"grammar" : 0.54,
+	"pronunciation" : 0.32,
 	"topicsToRecap" : [
 		"present perfect vs past simple",
 		"articles: The vs zero",
