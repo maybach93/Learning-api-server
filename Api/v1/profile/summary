@@ -1,0 +1,32 @@
+{
+	"day" : 23,
+	"totalDays" : 90,
+	"progress" : {
+		"words" : {
+			"completed" : 270,
+			"total" : 400
+		},
+		"grammar" : {
+			"completed" : 270,
+			"total" : 400
+		},
+		"practice" : {
+			"completed" : 270,
+			"total" : 400
+		}
+	},
+	"plan" : [
+		{
+			"name" : "Words: Weather B2 (20)",
+			"id" : 230
+		},
+		{
+			"name" : "Grammar spot: Present Perfect II",
+			"id" : 234
+		},
+		{
+			"name" : "Quiz: Article 'The'",
+			"id" : 255
+		}
+	]
+}
