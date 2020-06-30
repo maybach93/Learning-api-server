@@ -1,20 +1,21 @@
 {
-	"day" : 23,
-	"totalDays" : 90,
-	"progress" : {
-		"words" : {
-			"completed" : 270,
-			"total" : 400
-		},
-		"grammar" : {
-			"completed" : 270,
-			"total" : 400
-		},
-		"practice" : {
-			"completed" : 270,
-			"total" : 400
-		}
+	"days" : {
+		"completed" : 23,
+		"total" : 90
 	},
+	"words" : {
+		"completed" : 270,
+		"total" : 400
+	},
+	"grammar" : {
+		"completed" : 270,
+		"total" : 400
+	},
+	"practice" : {
+		"completed" : 270,
+		"total" : 400
+	},
+
 	"plan" : [
 		{
 			"name" : "Words: Weather B2 (20)",
