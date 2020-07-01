@@ -4,7 +4,7 @@
 		"total" : 90
 	},
 	"words" : {
-		"completed" : 350,
+		"completed" : 315,
 		"total" : 400
 	},
 	"grammar" : {
@@ -12,8 +12,8 @@
 		"total" : 10
 	},
 	"practice" : {
-		"completed" : 4,
-		"total" : 16
+		"completed" : 7,
+		"total" : 18
 	},
 
 	"plan" : [
