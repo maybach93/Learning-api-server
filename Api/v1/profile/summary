@@ -4,16 +4,16 @@
 		"total" : 90
 	},
 	"words" : {
-		"completed" : 270,
+		"completed" : 350,
 		"total" : 400
 	},
 	"grammar" : {
-		"completed" : 270,
-		"total" : 400
+		"completed" : 6,
+		"total" : 10
 	},
 	"practice" : {
-		"completed" : 270,
-		"total" : 400
+		"completed" : 4,
+		"total" : 16
 	},
 
 	"plan" : [
