@@ -1,7 +1,7 @@
 {
 	"topic" : "Plans",
-	"objective" : "Answer the questions using:\ngoing to,\nPresent Continious",
-	"extra" : ["Future continious"],
+	"objective" : "Answer the questions using: going to, Present continuous",
+	"extra" : ["Future continuous"],
 	"questions" : [
 		"How often do you plan things? Why?",
 		"What are your plans for next year?",
